@@ -1,7 +1,19 @@
+
 An impressive 15 submissions were sent in for this year’s contest! As usual, many thanks to all the participants for their hard work. After having analyzed and deliberated about all the submitted plugins, our panel of judges selected the following winners:
 
+First prize: [Tenet](#Tenet)
+
+Second prize: [D-810](#D-810)
+
+Third prize: [nmips](#nmips)
+
+## Special mention
 Aside from this year’s winners, we would like to give special credit to a couple of plugins that didn’t make it to the top three, but we feel deserve special attention:
 
+- [IPyIDA](#ipyida): despite it being conceptually simple (“an alternative console specifically for scripting in Python”), can have a huge impact on productivity, for very little hassle
+- [Yagi](#Yagi): during evaluation, we uncovered a few issues that got in the way of testing. Once those are solved, and support for more processors is added, Yagi will no doubt become a very handy tool for any reverser targeting less mainstream architectures
+
+# Full list of submissions
 *   [CollaRE](#CollaRE)
 *   [CTO – Call Tree Overviewer](#CTO)
 *   [D-810](#D-810)
@@ -236,13 +248,10 @@ https://github.com/airbus-cert/Yagi
 **Our opinion:** This plugin integrates Ghidra’s decompiler into IDA. This is very interesting because it allows IDA to decompile more architectures than it supports out of the box. Yagi is able to invoke Ghidra’s core decompiler engine from within IDA itself, and displays the decompilation result in a custom interactive source viewer window. It even allows the user to interactively edit variable types, which is impressive.  
 The plugin is sophisticated, but also clean. It has a lot of potential to be improved, and support for more architectures can be added easily. It definitely has a promising future!
 
-![](https://hex-rays.com/wp-content/uploads/2021/09/Yagi.png)
 ![](2021%20Plug-In%20Contest/Yagi.png)
 
-* * *
 
-Final notes
------------
+# Final notes
 
 It is often the case, and this year was no exception: picking the winners was not a trivial task. Creativity, impact on the user base, ease of use, … are all axes on which the different plugins lie (and that we must consider). Some plugins will be immediately beneficial to use, while others are offering insights, ideas & inspiration for the future. We are glad this year’s entries were so spread across those various axes: it shows the reverse-engineering community is not done innovating and pushing the boundaries!
 
