@@ -94,6 +94,8 @@ https://github.com/cellebrite-srl/FunctionInliner
 
 [IDA2Obj-main.zip](PlugIn/IDA2Obj-main.zip)
 
+https://github.com/jhftss/IDA2Obj
+
 > IDA2Obj is a tool to implement SBI (Static Binary Instrumentation).
 
 **Our opinion:** IDA2Obj offers a novel approach to instrumentation of closed-source binaries. It uses IDA to analyze the file, then dumps the database contents to relocatable object files with instrumentation hooks injected. The object files are then linked together with the instrumentation stub code, providing an instrumented binary equivalent in behavior to the original one. Currently it only implements support for x64 PE files, but the same approach could be extended to other platforms.
