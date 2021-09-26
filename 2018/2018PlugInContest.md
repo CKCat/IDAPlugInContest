@@ -82,6 +82,7 @@ The plugin will be extremely useful to all persons interested in the microcode A
 
 **[Download HexRaysDeob.rar](PlugIn/HexRaysDeob.rar)**
 
+https://github.com/RolfRolles/HexRaysDeob
 # Hyara 
 
 by Yi Hyun, Kwak Kyoung-Ju (Korea Financial Security Institute)
@@ -100,6 +101,8 @@ It helps creating rules for the YARA pattern-matching tool direcly in IDA. It in
 
 **[Download Hyara.zip](PlugIn/Hyara.zip)**
 
+https://github.com/hyuunnn/Hyara
+
 # IDAFuzzy 
 
 by Ga-Ryo
@@ -115,6 +118,8 @@ The tool is simple and works as advertized. This global search feature is more a
 ![idafuzzy](2018PlugInContest/idafuzzy.png)
 
 **[Download IDAFuzzy.zip](PlugIn/IDAFuzzy.zip)**
+
+https://github.com/Ga-ryo/IDAFuzzy
 
 # IDA-Minsc 
 
@@ -202,6 +207,8 @@ This plugin is of great benefit for people working with Altera’s FPGAs. Perhap
 
 **[Download nios2_proc.7z](PlugIn/nios2_proc.7z)**
 
+https://github.com/ptresearch/nios2
+
 # Oregami 
 
 by Matan Ziv
@@ -218,7 +225,7 @@ Oregami eases the work when tracking the use of a register within a function, by
 
 **[Download oregami.zip](PlugIn/oregami.zip)**
 
-
+https://github.com/shemesh999/oregami
 
 # Final notes
 

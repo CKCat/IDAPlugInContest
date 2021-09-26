@@ -45,12 +45,18 @@ Overall BinCAT is very promising and interesting plugin. We hope it will evolve 
 ![](2017PlugInContest/bincat.png)
 
 **[Download bincat-0.8.tar.gz (source)](PlugIn/bincat-0.8.tar.gz)** 
+
 **[Download bincat-lin-v0.8+.tar.xz (Linux binaries)](PlugIn/bincat-lin-v0.8+.tar.xz)** 
+
 **[Download bincat-win-v0.8.zip (Windows binaries)](PlugIn/bincat-win-v0.8.zip)**
 
 **[Get BinCAT from github](https://github.com/airbus-seclab/bincat)**
 
-# Drop by Thomas Rinsma (Riscure)** Drop is:
+# Drop 
+
+by Thomas Rinsma (Riscure)
+
+Drop is:
 
 > … an experimental IDA Pro plugin capable of detecting several types of opaque predicates in obfuscated binaries. It leverages the power of the symbolic execution engine angr and its components to reason about the opaqueness of predicates based on their symbolic context.
 
@@ -65,6 +71,8 @@ The experimental feature of removing dead code by replacing them with NOP instru
 ![](2017PlugInContest/drop.png)
 
 **[Download drop.zip](PlugIn/drop.zip)**
+
+https://github.com/Riscure/DROP-IDA-plugin
 
 # IDABuddy 
 by Tamir Bahar
