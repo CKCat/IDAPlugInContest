@@ -134,6 +134,8 @@ Javier Vicente Vallejo
 
 [idaDiscover.7z](PlugIn/idaDiscover.7z)
 
+https://github.com/ufwt/idaDiscover
+
 > idaDiscover is essentially a toolbox to assist malware analysis. It can do many things: find encrypted or dynamically strings, embedded PE files, suspicious loops, crypto or hash routines, and so on.
 
 **Our opinion:** The target audience for idaDiscover seems to be mostly Windows malware researchers, by automating extraction of some hidden features of binaries (such as encrypted strings, embedded PE files, encryption, …). Although the user interface can be a bit hairy at times, idaDiscover is full of features that help getting the most usual evasion tricks out of the way, for further analysis. idaDiscover is well documented, in particular by the introductory videos that come with it.
@@ -197,6 +199,8 @@ https://github.com/gaasedelen/lucid
 Ouri Lipner (Cellebrite Security Research)
 
 [pacxplorer.zip](PlugIn/pacxplorer.zip)
+
+https://github.com/cellebrite-srl/PacXplorer
 
 > PacXplorer analyzes ARM64 PAC instructions to provide a new type of cross-reference: from call site to virtual function, and vice versa.
 
