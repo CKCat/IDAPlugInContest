@@ -1,7 +1,7 @@
 
 # IDAPlugInContest
 
-[2021 Plug-In Contest](2021/2021%20Plug-In%20Contest.md) ==>   https://hex-rays.com/contests_details/contest2021/
+[2022 Plug-In Contest](2022/2022%20Plug-In%20Contest.md) ==>   https://hex-rays.com/contests_details/contest2022/
 
 [2021 Plug-In Contest](2021/2021%20Plug-In%20Contest.md) ==>   https://hex-rays.com/contests_details/contest2021/
 
